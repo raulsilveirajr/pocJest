@@ -1,0 +1,28 @@
+# Project Name
+
+POC de estudo de Node.js, Express.js e Jest
+
+## Installation
+
+Use the package manager [npm](https://www.npmjs.com/) to install the required dependencies.
+
+```bash
+npm install
+```
+
+## Run Tests
+
+```bash
+npx jest --coverage
+```
+
+## Usage
+
+```bash
+npm start
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+```
